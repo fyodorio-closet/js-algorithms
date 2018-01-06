@@ -28,8 +28,8 @@ class LinkedList {
         return pushedNode;
     }
 
-    insertNode (precedingIndex, value) {
-        // TBD
+    insertNode (targetIndex, value) {
+        // TBD / TODO
     }
 
     searchNode (index) {
@@ -73,6 +73,12 @@ class LinkedList {
         deletedNode = null;
         this.listLength--;
         return returnedData;
+    }
+
+    sortList () {
+        // TBD / TODO
+        // https://blog.theodorejb.me/linked-list-sorting/
+        // https://www.reddit.com/r/javascript/comments/5s91i0/sorting_a_linked_list/
     }
 }
 
