@@ -1,6 +1,6 @@
 # JavaScript Algorithms
 
-Learning and implementing
+Implementing important algorithms and data structures in JS
 
 1. Binary Search
 2. Selection Sort
@@ -8,3 +8,5 @@ Learning and implementing
 4. Recursive Functions for an array (sum, length, max, binary search)
 5. Quick Sort (recursive)
 6. Merge Sort (recursive)
+7. Hash Table (WIP)
+8. Bubble Sort
